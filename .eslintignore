@@ -1,0 +1,9 @@
+.github
+.next
+coverage
+docs
+node_modules
+static
+build
+
+jest.config.ts
